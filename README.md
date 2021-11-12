@@ -29,13 +29,13 @@ In reference to the line graph below, one can see that all of the city types fol
 ![](analysis/PyBer_fare_summary.png)
 
 ## Summary
-### Recommendations
+Based on the results of the analysis, three recommendations have been proposed below. 
 
-#### Hire Drivers in Rural Cities
+### Hire Drivers in Rural Cities
 Individuals in rural cities are paying ten dollars more per ride than those in urban cities, and the drivers are getting paid over three times more in rural cities than in urban cities. This suggests that there are not enough drivers in rural areas. Because of this, it is recommended that PyBer invest in hiring more drivers for these areas in order to reduce the cost of a ride, and therefore make the service more accessible to those who cannot currently afford it. 
 
-#### Increase Advertising in Urban Cities
+### Increase Advertising in Urban Cities
 In contrast, urban cities have a surplus of drivers given the total number of rides. Due to this saturation of drivers, it would be beneficial for PyBer to invest in advertising in urban areas in order to increase the number of rides.  
 
-#### Expand Model in Urban Cities
+### Expand Model in Urban Cities
 Lastly, PyBer may want to expand their ride-sharing model to include food delivery (similar to the way Uber, another popular ridesharing service, has) in urban areas. This would work in tandem with the advertising investment and help to increase the customer base. For example, the food orders may help to fill the gap when there are less rides than drivers, and will therefore increase the "fare" per driver. 
